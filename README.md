@@ -1,8 +1,15 @@
 # sangregorio-webapp
-Aplicación web para el seguimiento a producción agricola
 
-Herramientas de desarrollo
-------------------------------
+SAN GREGORIO
+=======================
+
+Aplicación Web responsive para el seguimiento a producción agricola
+
+Una vez descargados los archivos se debe configurar el servidor virtual.
 
 
- 1. Django
+Caracterizticas tecnicas
+------------------------
+
+ 1. Django Framework
+ 2. Bootstrap
